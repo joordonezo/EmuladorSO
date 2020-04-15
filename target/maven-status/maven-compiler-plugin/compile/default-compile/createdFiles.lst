@@ -1,0 +1,13 @@
+clases\Reset.class
+Servlets\servChMaquina.class
+Servlets\SubirArchivo.class
+clases\Memoria.class
+Servlets\servCompilarEjecutar.class
+Servlets\LeerArchivo.class
+clases\Compilar.class
+clases\Archivo.class
+clases\Ejecutar.class
+clases\Programa.class
+Servlets\Inicio.class
+clases\Hilo.class
+clases\ProgramasCargados.class
